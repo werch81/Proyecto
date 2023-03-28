@@ -1,3 +1,5 @@
+# operaciones basicas python
+
 num1,num2 = map (int,input().split())
 
 suma = num1 + num2
